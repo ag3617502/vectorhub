@@ -71,7 +71,7 @@ function App() {
   return (
     <div className="container">
       <div className="card">
-        <h1>Semantic Match</h1>
+        <h1>Vector Hub</h1>
         <p className="subtitle">Find which of your phrases best matches a query using AI embeddings.</p>
 
         <div className="input-group">
