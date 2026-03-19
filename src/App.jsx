@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import { Plus, Trash2, Search, Loader2 } from 'lucide-react';
 
-const API_BASE = "http://localhost:5000/api";
+const API_BASE = "https://vectorhub-be.vercel.app/api";
 
 function App() {
   const [inputs, setInputs] = useState(['']);
